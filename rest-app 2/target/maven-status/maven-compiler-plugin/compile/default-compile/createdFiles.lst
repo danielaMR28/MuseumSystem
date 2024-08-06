@@ -1,0 +1,4 @@
+fi/disenio/rest/model/Room.class
+fi/disenio/rest/ApplicationConfig.class
+fi/disenio/rest/dao/RoomsRepository.class
+fi/disenio/rest/MuseumService.class
